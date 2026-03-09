@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Elton! 👋
 
-<!--
-**Elton850/Elton850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analista de Dados & Desenvolvedor Fullstack
+Trabalho na intersecção entre Engenharia de Dados e Desenvolvimento de Software, utilizando IA para acelerar entregas e garantir precisão analítica.
 
-Here are some ideas to get you started:
+- 🛠 Atualmente focado em: **Analytics Engineering & Automações com Python**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🤖 Especialista em desenvolvimento assistido por IA (**Cursor / Claude / Codex**)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL Server](https://img.shields.io/badge/sql_server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+---
+### 📈 GitHub Stats
+![Stats de Elton](https://github-readme-stats.vercel.app/api?username=Elton850&show_icons=true&theme=radical)
