@@ -38,7 +38,7 @@ Compilado de soluções técnicas para problemas reais de negócio:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Elton850&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Elton" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton850&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton850&layout=compact&theme=radical&hide_progress=true" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 ---
