@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Elton Alves!
 
-### **Analytics Engineer | Data Analyst | Python Automation Specialist** 🚀
+### **Analytics Engineer | Data Analyst | Desenvolvedor Python Fullstack** 🚀
 
 Especialista em transformar fluxos de trabalho complexos e dados brutos em inteligência de negócio. Com foco em **Análise e Desenvolvimento de Sistemas**, atuo na ponte entre a engenharia de dados e a automação de processos, utilizando **IA Generativa** para acelerar ciclos de entrega e garantir scripts de alta performance.
 
