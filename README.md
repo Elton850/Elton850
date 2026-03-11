@@ -14,7 +14,7 @@ Especialista em transformar fluxos de trabalho complexos e dados brutos em intel
 | **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=flat-square) ![Star Schema](https://img.shields.io/badge/Modeling-Star%20Schema-green?style=flat-square) |
 | **Development & Logic** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **Automation** | ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-Automation-yellowgreen?style=flat-square) |
-| **Ecosystem** | ![TOTVS](https://img.shields.io/badge/ERP-TOTVS%20RM-red?style=flat-square) ![SAP](https://img.shields.io/badge/ERP-SAP%20Hana-008FD3?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Ecosystem** | ![TOTVS](https://img.shields.io/badge/ERP-TOTVS%20RM-red?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
