@@ -20,7 +20,7 @@ Especialista em transformar fluxos de trabalho complexos e dados brutos em intel
 
 ### 🌟 Projetos em Destaque
 
-* 🚀 **[Task-Manager](https://github.com/Elton850/Task-Manager):** Ferramenta de gerenciamento de produtividade desenvolvida com lógica em **TypeScript** e scripts de automação.
+* 🚀 **[Task-Manager](https://task-manager-demo-m1vl.onrender.com/):** Ferramenta de gerenciamento de produtividade desenvolvida com lógica em **TypeScript** e scripts de automação.
 * 📊 **Analytics Toolbox:** Scripts avançados de T-SQL para extração de dados de ERPs e automação de conciliação financeira (Folha x Ponto).
 * 🤖 **AI-Augmented Workflows:** Implementação de rotinas assistidas por Claude e Cursor para redução de 40% no Time-to-Market de novos dashboards e automações Python.
 
